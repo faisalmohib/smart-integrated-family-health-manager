@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+groq
+sentence-transformers
+faiss-cpu
+PyMuPDF
+pydantic
+numpy
+sqlalchemy
+apscheduler
+plyer
+python-multipart
